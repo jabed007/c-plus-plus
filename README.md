@@ -1,2 +1,2 @@
-# C-C-
+# c/c++
 Basic c/c++ program
